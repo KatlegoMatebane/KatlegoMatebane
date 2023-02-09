@@ -1,10 +1,10 @@
-<img align="left" alt="Java" width="1700px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Banners/Banner.gif"/>
+<img align="left" alt="Java" width="1700px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Banners/Banner1.gif"/>
 
 ## <br />
 
 ### ABOUT
 
-<h4> Katlego Matebane is Data Scientist & Blockchain developer. With his current skill set, he is able to analyse and model data in order to solve business problems. Naturally, a data scientist needs a place to store data, and his prefered storage method is blockchain, because of its security and transparency. </h4>
+<h4> Katlego Matebane (aka BANE) is Data Scientist & Blockchain developer. With his current skill set, he is able to analyse and model data in order to solve business problems. Naturally, a data scientist needs a place to store data, and his prefered storage method is blockchain, because of its security and transparency. </h4>
 
 ---
 
@@ -32,9 +32,8 @@
 
 <br />
 
-### BADGES & CERTIFICATION
+### CERTIFICATION
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/CSCD.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/BlockchainCouncil.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/LinuxFoundation.png"/>
 
