@@ -3,8 +3,10 @@
 **`Digital Creator [ Data Scientist | Developer | Designer ]`**
 
 
-<img align="left" alt="Java" width="340px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Banners/Banner.png"/>
+<img align="left" alt="Java" width="1700px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Banners/Banner.png"/>
+
 ---
+
 ### TECHNICAL TOOLS
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"/>
