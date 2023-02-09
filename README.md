@@ -1,9 +1,9 @@
 <img align="left" alt="Java" width="1700px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Banners/Banner.gif"/>
 
----
+## <br />
 
-<br />
-<br />
+### ABOUT
+
 <h4> Katlego Matebane is Data Scientist & Blockchain developer. With his current skill set, he is able to analyse and model data in order to solve business problems. Naturally, a data scientist needs a place to store data, and his prefered storage method is blockchain, because of its security and transparency. </h4>
 
 ---
@@ -28,6 +28,8 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobePhotoshop.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobePremierePro.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobeXD.png"/>
+
+---
 
 <!--
 **KatlegoMatebane/KatlegoMatebane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
