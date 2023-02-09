@@ -13,9 +13,11 @@
 
 ### CREATIVE TOOLS
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/premierepro/premierepro-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xd/xd-plain.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobeAudition.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobeInDesign.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobePhotoshop.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobePremierePro.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobeXD.png"/>
 
 <!--
 **KatlegoMatebane/KatlegoMatebane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
