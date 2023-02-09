@@ -19,6 +19,8 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/Solidity.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/VisualStudioCode.png"/>
 
+<br />
+
 ### CREATIVE TOOLS
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobeAfterEffects.png"/>
