@@ -1,8 +1,8 @@
 <img align="left" alt="Java" width="1700px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Banners/Banner.gif"/>
 
 <br />
-<h5> Katlego Matebane is Data Scientist & Blockchain developer. With his current skill set, he is able to analyse and model data in order to solve business problems. Naturally, a data scientist needs a place to store data, and his prefered storage method is blockchain, because of its security and transparency. </h5>
 <br />
+<h4> Katlego Matebane is Data Scientist & Blockchain developer. With his current skill set, he is able to analyse and model data in order to solve business problems. Naturally, a data scientist needs a place to store data, and his prefered storage method is blockchain, because of its security and transparency. </h4>
 
 ### CODING TOOLS
 
