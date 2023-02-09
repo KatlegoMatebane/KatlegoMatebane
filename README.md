@@ -30,13 +30,15 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobePremierePro.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/AdobeXD.png"/>
 
+### BADGES & CERTIFICATION
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/CSCD.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/BlockchainCouncil.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/LinuxFoundation.png"/>
+
 <br />
 
 ---
-
-### BADGES
-
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/KatlegoMatebane/blob/main/Assests/Icons/CSCD.png"/>
 
 <!--
 **KatlegoMatebane/KatlegoMatebane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
