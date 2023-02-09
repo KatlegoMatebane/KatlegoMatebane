@@ -1,4 +1,6 @@
-### Hi there 👋
+# KATLEGO MATEBANE
+
+**`Digital Creator [ Data Scientist | Developer | Designer ]`**
 
 <!--
 **KatlegoMatebane/KatlegoMatebane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
